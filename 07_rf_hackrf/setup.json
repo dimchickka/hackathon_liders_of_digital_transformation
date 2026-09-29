@@ -1,0 +1,13 @@
+{
+  "shielded_box_confirmed": true,
+  "anechoic_chamber_confirmed": true,
+  "near_field_probe_over_chip_confirmed": true,
+  "confirmation_source": "User in this task, 2026-09-25: near-field probe directly above RP2040 chip; shielded box inside anechoic chamber",
+  "probe_model": null,
+  "distance_mm": null,
+  "attenuator_db": null,
+  "physical_field_calibration": null,
+  "other_generator": "Previously used RIGOL instruments not found by VISA at preflight; output state unverified",
+  "hackrf_serial": "000000000000000066a062dc2a4f2e9f",
+  "rp2040_serial": "5303284740FF6F9C"
+}
